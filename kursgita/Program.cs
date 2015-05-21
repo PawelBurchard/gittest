@@ -10,7 +10,7 @@ namespace kursgita
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("yolo");
+            Console.WriteLine("yoloyolo");
             Console.ReadKey();
         }
     }
